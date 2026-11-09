@@ -6,10 +6,10 @@
     "url": ""
   },
   "griha": {
-    "version": "5.0",
+    "version": "5.1",
     "date": "2026-11-09",
-    "notes": "Login व भूमिका, program मधूनच Demo / सदस्यता मागणी — मंजुरीनंतर परवाना आपोआप, परवाना पान व आठवण, धनादेश रजिस्टर, घेतलेली कर्जे, भाग दाखला, पावती QR, हटवलेल्या नोंदी परत, चित्रांसह मार्गदर्शिका.",
+    "notes": "संगणकावरील सर्व माहिती कूटबद्ध (पासवर्ड / recovery कोड), अध्यक्ष रोकड नोंद, खजिनदार सभासद बदल, भाग दाखल्याचा मजकूर संस्था ठरवते.",
     "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-    "sha256": "b4b9f16e4bb3e8c6a698534f661519ece029fbca7fedf94e4330904898415d0b"
+    "sha256": "03c5c271be1b99536b5f1cbe641af74b77094552bc09960e37deffb033e178c7"
   }
 }
