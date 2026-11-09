@@ -1,6 +1,14 @@
 {
-  "sahkar": {"version": "4.15", "date": "2026-11-08", "notes": "", "url": ""},
-  "griha": {"version": "4.0", "date": "2026-11-09",
-            "notes": "माहिती संगणकावरील फाइलमध्ये, रोज आपोआप बॅकअप, कुलूपबंद बॅकअप, शेवटचा बदल रद्द, दोन संगणक एकत्र, बँक statement मधून नोंदी, Tally export, बिले ई-मेलने, सभासद माहिती पान, वेग.",
-            "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe"}
+  "sahkar": {
+    "version": "5.0",
+    "date": "2026-11-09",
+    "notes": "सर्व आकडे देवनागरीत, सराव संस्था २०२५-२६, कर्ज फाईल तपासणी, लेखापरीक्षण प्रश्नावली, संचालक मंडळ सारांश, शुल्क नोंदवही, नवीन परिपत्रक सूचना.",
+    "url": ""
+  },
+  "griha": {
+    "version": "4.0",
+    "date": "2026-11-09",
+    "notes": "माहिती संगणकावरील फाइलमध्ये, रोज आपोआप बॅकअप, कुलूपबंद बॅकअप, शेवटचा बदल रद्द, दोन संगणक एकत्र, बँक statement मधून नोंदी, Tally export, बिले ई-मेलने, सभासद माहिती पान, वेग.",
+    "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe"
+  }
 }
