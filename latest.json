@@ -8,11 +8,11 @@
   "sha256": "49d18dc884cbcf21a67a15ccb72753c39cda254c691a63d2dbf34ef78f6391cd"
  },
  "griha": {
-  "version": "6.5",
-  "date": "2026-11-12",
-  "notes": "मालक login दुरुस्ती: नोंद नसलेल्या संगणकावर आता स्पष्ट पान — या संगणकाचा मालक कोड, कॉपी बटण व पुढे काय करायचे.",
+  "version": "6.6",
+  "date": "2026-11-13",
+  "notes": "मालक login सोपा: कोणत्याही संगणकावर Shrikant व मालक पासवर्डने मालक कक्ष उघडतो — कोड पाठवण्याची गरज नाही; संस्थांचे वापरकर्ते पूर्वीप्रमाणे.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "f2840fc231a821da779cde4a6f7a075762a3ad2e7aa9d4e106529cb04bb2c516"
+  "sha256": "14b45de71698659e32ccfe6b3c63f1d0b4ee04a66bb1c3169d424ce8e699ebb7"
  },
  "owners": {
   "v": 1,
