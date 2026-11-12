@@ -1,11 +1,11 @@
 {
   "sahkar": {
-    "version": "8.1",
+    "version": "8.2",
     "date": "2026-11-12",
-    "notes": "आक्षेप नोंदवही व पुरावा खूण, सातत्य तपासणी, नियुक्ती संच, आकडे तपासणी (व्याज proof, evergreening, NPA होणारी खाती), CEO ची साधने, EDP लेखापरीक्षण अहवाल, Forensic तपासण्या व माँग-पत्र, Netwin याद्या, संचालक डॅशबोर्ड.",
+    "notes": "नवीन रूप (मरून · सुनहरा · पाचूहिरवा), NPA सरळ नियम — शेवटचा भरणा ते ३१ मार्च १८० दिवस, परिपत्रक शोध मराठी / English, पगारदार हप्ता, सेवा संस्था पीक कर्ज व माल मूल्यांकन, रिकाम्या तक्त्यात «निरंक».",
     "url": "",
     "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-    "sha256": "6d378fbda25aac314bba70de42058f21b9edebec66cc5701c0804936fa8f1204"
+    "sha256": "8fcb7fbc8683c0a8884434d60c8d3dd9df912fd8b3e7ad2cf0366afe7097d207"
   },
   "griha": {
     "version": "6.1",
