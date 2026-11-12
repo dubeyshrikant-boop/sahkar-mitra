@@ -6,10 +6,10 @@
     "url": ""
   },
   "griha": {
-    "version": "5.2",
-    "date": "2026-11-10",
-    "notes": "परवाना सुरक्षा (नवीन सही-चावी — नवीन परवाना आपोआप येतो), वार्षिक सदस्यता किंमत भरणा पानावर.",
+    "version": "5.5",
+    "date": "2026-11-12",
+    "notes": "एकच login — Boffin Meta कडून आलेले नाव, पासवर्ड व कोड (आधीच्या संस्थांचे login तसेच), नवे «लक्ष्मी» चिन्ह.",
     "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-    "sha256": "924e082301c79e76c949ef89f983f091a2d6d240d2d5a8358d5944072335de51"
+    "sha256": "c2c379aecdc2dc23a736f8209c4600f0cf950ac438a3a3331ede903a356be3dc"
   }
 }
