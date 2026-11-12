@@ -6,10 +6,10 @@
     "url": ""
   },
   "griha": {
-    "version": "5.5",
+    "version": "6.0",
     "date": "2026-11-12",
-    "notes": "एकच login — Boffin Meta कडून आलेले नाव, पासवर्ड व कोड (आधीच्या संस्थांचे login तसेच), नवे «लक्ष्मी» चिन्ह.",
+    "notes": "📕 वर्ष बंद करणे (पुढील वर्षाच्या सुरुवातीच्या बाक्या आपोआप, बंद वर्ष फक्त पाहणे), एकच program, मार्गदर्शिका — कूटबद्धता व recovery कोड.",
     "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-    "sha256": "c2c379aecdc2dc23a736f8209c4600f0cf950ac438a3a3331ede903a356be3dc"
+    "sha256": "167233acb5dabfbd044f6cc08f294b486ab86a56830b812c9d686a7966114c99"
   }
 }
