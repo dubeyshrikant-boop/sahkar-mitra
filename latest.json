@@ -8,10 +8,10 @@
   "sha256": "49d18dc884cbcf21a67a15ccb72753c39cda254c691a63d2dbf34ef78f6391cd"
  },
  "griha": {
-  "version": "6.4",
+  "version": "6.5",
   "date": "2026-11-12",
-  "notes": "सभासद import .xlsx सह — चुकीच्या ओळींची यादी, सर्व सभासदांचे हिशोब पत्रक व बिले एकाच छपाईत, संदेश नोंदवही, थकबाकीदारांना एकामागून एक WhatsApp, भाडेकरू पोलीस सूचना दिनांक, तक्रारी किती दिवस उघड्या, disk जागा कमी असल्यास इशारा.",
+  "notes": "मालक login दुरुस्ती: नोंद नसलेल्या संगणकावर आता स्पष्ट पान — या संगणकाचा मालक कोड, कॉपी बटण व पुढे काय करायचे.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "46d7258148bb7dd13f3fe2f9a0e7ab7682a3f9d059876637a97d7ed0e75bd632"
+  "sha256": "f2840fc231a821da779cde4a6f7a075762a3ad2e7aa9d4e106529cb04bb2c516"
  }
 }
