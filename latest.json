@@ -13,5 +13,18 @@
   "notes": "मालक login दुरुस्ती: नोंद नसलेल्या संगणकावर आता स्पष्ट पान — या संगणकाचा मालक कोड, कॉपी बटण व पुढे काय करायचे.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
   "sha256": "f2840fc231a821da779cde4a6f7a075762a3ad2e7aa9d4e106529cb04bb2c516"
+ },
+ "owners": {
+  "v": 1,
+  "kid": "v2",
+  "serial": 1,
+  "issued": "2026-11-12",
+  "pcs": [
+   {
+    "code": "DU3A-SX2L-FFT2-IL3B",
+    "name": "CA कार्यालय — Shrikant laptop (12-11-2026)"
+   }
+  ],
+  "sig": "B5cSCc7CSmntmdUWoGj355L/xHfMp9gy7YRFJsddS37iYWPBTkYzYpOo+JTtMXI38798uliqOoNfvn4mxRUtDQ=="
  }
 }
