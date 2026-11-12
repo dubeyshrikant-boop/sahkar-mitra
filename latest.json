@@ -8,11 +8,11 @@
   "sha256": "49d18dc884cbcf21a67a15ccb72753c39cda254c691a63d2dbf34ef78f6391cd"
  },
  "griha": {
-  "version": "6.6",
+  "version": "6.7",
   "date": "2026-11-13",
-  "notes": "मालक login सोपा: कोणत्याही संगणकावर Shrikant व मालक पासवर्डने मालक कक्ष उघडतो — कोड पाठवण्याची गरज नाही; संस्थांचे वापरकर्ते पूर्वीप्रमाणे.",
+  "notes": "नवीन चिन्ह — सोनेरी नाणे व मराठी «ल»; १७ पानांवर आकर्षक शीर्ष पट्टा, सारांश कार्डे व रिकाम्या पानावर स्वागत व पहिल्या कामाचे बटण; थकबाकीदार व्याख्या कलम १५४ब-१(११) प्रमाणे पूर्ण.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "14b45de71698659e32ccfe6b3c63f1d0b4ee04a66bb1c3169d424ce8e699ebb7"
+  "sha256": "89c994dcf6a630b930e89df8e214e2007dd76a8c3a3a934e956b9d7b7e620fb9"
  },
  "owners": {
   "v": 1,
