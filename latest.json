@@ -1,17 +1,17 @@
 {
-  "sahkar": {
-    "version": "8.2",
-    "date": "2026-11-12",
-    "notes": "नवीन रूप (मरून · सुनहरा · पाचूहिरवा), NPA सरळ नियम — शेवटचा भरणा ते ३१ मार्च १८० दिवस, परिपत्रक शोध मराठी / English, पगारदार हप्ता, सेवा संस्था पीक कर्ज व माल मूल्यांकन, रिकाम्या तक्त्यात «निरंक».",
-    "url": "",
-    "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-    "sha256": "8fcb7fbc8683c0a8884434d60c8d3dd9df912fd8b3e7ad2cf0366afe7097d207"
-  },
-  "griha": {
-    "version": "6.2",
-    "date": "2026-11-12",
-    "notes": "नवीन रूप — पाचूहिरवा (emerald) प्रमुख, सोनेरी रेषा व मरून छटा; स्वागत पान, login व सर्व पाने.",
-    "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-    "sha256": "8a508190d2674ebbced3a03adc22ec92744c507fc70b0444eb621bc00cfec84d"
-  }
+ "sahkar": {
+  "version": "8.3",
+  "date": "2026-11-12",
+  "notes": "सर्व पाने तपासली: Ctrl+K शोध, मोबाइल «☰ मेनू», पाने जलद, अहवाल तयार होताच छपाईपूर्व तपासणी, Word अहवालात «पान X / Y», अलीकडे उघडलेल्या संस्था, वर्षाचे सर्व अहवाल एका zip मध्ये, backup आठवण.",
+  "url": "",
+  "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
+  "sha256": "1f18842d65ad65da9abd4dbff68dfd3be21f67c260fb0ef88e39462895cc95c7"
+ },
+ "griha": {
+  "version": "6.3",
+  "date": "2026-11-12",
+  "notes": "«हे पान कसे वापरावे» पेटी फक्त पहिल्यांदा, मराठी तारीख, दरपत्रक तुलना — GST व समितीची खर्च मर्यादा, सर्व छपाई काळी-पांढरी A4 पान क्रमांकासह, मुखपृष्ठ जलद.",
+  "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
+  "sha256": "ab1dd84c2790c44c46fe9ce735fd8ff0dbabcadaf127fd6a9fd32646adf17c7c"
+ }
 }
