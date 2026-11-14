@@ -1,0 +1,34 @@
+{
+ "product": "sahkar",
+ "version": "9.0",
+ "file": "SahkarMitra_Setup.exe",
+ "size": 428048321,
+ "sha256": "7ac715c0bae381d75d567d3eb36a7a288db1a3587df258f7d9983e2a942c4ef7",
+ "parts": [
+  {
+   "name": "SahkarMitra_Setup.exe.001",
+   "size": 95000000,
+   "sha256": "9f3605f2f19d34b7af74b3eb3b06758de371dd9fb25335884ee5b2073347174e"
+  },
+  {
+   "name": "SahkarMitra_Setup.exe.002",
+   "size": 95000000,
+   "sha256": "c7ae4211cfe98375a3818e994022cd88819db75931c4ce83260aa598b3fec5d7"
+  },
+  {
+   "name": "SahkarMitra_Setup.exe.003",
+   "size": 95000000,
+   "sha256": "11db7fa51529885c930c9d6a22a86671d745d9d4d6ed828a328ac53f38e152e6"
+  },
+  {
+   "name": "SahkarMitra_Setup.exe.004",
+   "size": 95000000,
+   "sha256": "78b7b9c18d8289f61319ded2c378b3d3fc6c504067cd1438efe87a95bbb195fc"
+  },
+  {
+   "name": "SahkarMitra_Setup.exe.005",
+   "size": 48048321,
+   "sha256": "8f9c3adcc52d6d48922231f12d6970b9658a995cc5d30af91ae47db72727226b"
+  }
+ ]
+}
