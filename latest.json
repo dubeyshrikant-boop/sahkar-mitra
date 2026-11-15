@@ -8,11 +8,11 @@
   "sha256": "b9da042fe3946094863c52c7455a7b3343a5da4289621aa65a2d1eac98129648"
  },
  "griha": {
-  "version": "7.1",
+  "version": "7.2",
   "date": "2026-11-15",
-  "notes": "सदस्यता व डेमो व्यवस्थापन — सर्व संस्था एका यादीत, «७ दिवसांत संपणार» फिल्टर, तयार आठवण मजकूर; ३० दिवसांचा डेमो आपोआप (एका संस्थेला / संगणकाला एकदाच).",
+  "notes": "पत्रे — Google Input / English मध्ये लिहिलेले नाव मराठीत होऊन पत्रात लगेच; दिनांक पत्राच्या उजव्या बाजूस; सदस्यता व डेमो व्यवस्थापन.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "a108f958b0f1cfc0810642bac9bbfbb6cc3017ca3e156c414851096c5a48b60f"
+  "sha256": "beb16ab501bcce77b5af6c1a930090cf0b223f0c908e556c7a10937a07d32285"
  },
  "owners": {
   "v": 1,
