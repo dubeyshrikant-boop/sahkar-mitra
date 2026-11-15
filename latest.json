@@ -8,11 +8,11 @@
   "sha256": "b9da042fe3946094863c52c7455a7b3343a5da4289621aa65a2d1eac98129648"
  },
  "griha": {
-  "version": "7.2",
+  "version": "7.3",
   "date": "2026-11-15",
-  "notes": "पत्रे — Google Input / English मध्ये लिहिलेले नाव मराठीत होऊन पत्रात लगेच; दिनांक पत्राच्या उजव्या बाजूस; सदस्यता व डेमो व्यवस्थापन.",
+  "notes": "«विचारा» मध्ये English प्रश्नांना उत्तर; नावे व ओळखीचे शब्द मराठीत; पत्रातील सर्व आकडे मराठीत; दिनांक उजवीकडे; पावतीत पैसे व अग्रिम जमा.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "beb16ab501bcce77b5af6c1a930090cf0b223f0c908e556c7a10937a07d32285"
+  "sha256": "d62258c8fa7718385d806275dd220c7896ad9a5de25a18a9a0d596456c2e33ec"
  },
  "owners": {
   "v": 1,
