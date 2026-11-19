@@ -1,11 +1,11 @@
 {
  "sahkar": {
-  "version": "9.4",
+  "version": "9.4.1",
   "date": "2026-11-19",
-  "notes": "परवाना सेवा 2.0 — फक्त Boffin Meta कडून आलेले नाव व पासवर्ड; मंजुरी मिळताच सुरू; Demo १ महिना (+१ महिना), सदस्यता १ वर्ष; एक पासवर्ड — एक संगणक. आधीचे परवाने मुदतीपर्यंत चालू.",
+  "notes": "Boffin Meta कक्ष: «📘 कसे वापरायचे» मराठी व्हिडिओ, ✏ माहिती बदला, 🗑 हटवा. (9.4: परवाना सेवा 2.0 — फक्त नाव व पासवर्ड, मंजुरीनंतर सुरू.)",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "189f685894dc57f266ea257609c5cef30035ae3a3bb4e1faa9183ec7297ec7e6"
+  "sha256": "e584cfc9de4543b89208bf3e8e8bdd84f20eec7e0ea381c8dd19402a6749d13b"
  },
  "griha": {
   "version": "7.5",
