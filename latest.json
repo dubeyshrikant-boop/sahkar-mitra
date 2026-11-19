@@ -1,18 +1,18 @@
 {
  "sahkar": {
-  "version": "9.4.1",
+  "version": "9.4.2",
   "date": "2026-11-19",
-  "notes": "Boffin Meta कक्ष: «📘 कसे वापरायचे» मराठी व्हिडिओ, ✏ माहिती बदला, 🗑 हटवा. (9.4: परवाना सेवा 2.0 — फक्त नाव व पासवर्ड, मंजुरीनंतर सुरू.)",
+  "notes": "परवाना सेवा 2.0 सुरू — फक्त नाव व पासवर्ड, Boffin Meta च्या मंजुरीनंतर सुरू; «पुन्हा सुरू» नंतर पासवर्ड दिल्यावर लगेच सुरू (दुरुस्ती). Boffin Meta कक्ष: व्हिडिओ, ✏ बदला, 🗑 हटवा.",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "e584cfc9de4543b89208bf3e8e8bdd84f20eec7e0ea381c8dd19402a6749d13b"
+  "sha256": "90f567f49c81ed93fc6901dfaf181498cde420b7c650ec9b0336aea464f2c1c8"
  },
  "griha": {
-  "version": "7.5",
+  "version": "7.5.1",
   "date": "2026-11-19",
-  "notes": "परवाना सेवा 2.0 — पहिल्या पानावर फक्त नाव व पासवर्ड (कोड नाही); मंजुरी मिळताच सुरू; Demo १ महिना (+१ महिना), सदस्यता १ वर्ष; एक पासवर्ड — एक संगणक.",
+  "notes": "परवाना सेवा 2.0 सुरू — पहिल्या पानावर फक्त नाव व पासवर्ड; «पुन्हा सुरू» नंतर पासवर्ड दिल्यावर लगेच सुरू (दुरुस्ती).",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "018c759aef1d1e836967297d3d23f39446a06c16afafd8e5e00d260597f9b6ae"
+  "sha256": "4b30ee9ac11bf8b89b449d856964fdac7145521c0ca63a8d3ad1561a98a16851"
  },
  "owners": {
   "v": 1,
@@ -26,5 +26,8 @@
    }
   ],
   "sig": "B5cSCc7CSmntmdUWoGj355L/xHfMp9gy7YRFJsddS37iYWPBTkYzYpOo+JTtMXI38798uliqOoNfvn4mxRUtDQ=="
+ },
+ "cloud": {
+  "url": "https://script.google.com/macros/s/AKfycbwPXvCSZpcloVgYNGv3tuvYs_tb4paDSmcu7UzdwSS_y2VGwvuNBbBUFw80LC2UOjJZ/exec"
  }
 }
