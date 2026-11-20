@@ -1,11 +1,11 @@
 {
  "sahkar": {
-  "version": "9.4.2",
-  "date": "2026-11-19",
-  "notes": "परवाना सेवा 2.0 सुरू — फक्त नाव व पासवर्ड, Boffin Meta च्या मंजुरीनंतर सुरू; «पुन्हा सुरू» नंतर पासवर्ड दिल्यावर लगेच सुरू (दुरुस्ती). Boffin Meta कक्ष: व्हिडिओ, ✏ बदला, 🗑 हटवा.",
+  "version": "9.5",
+  "date": "2026-11-21",
+  "notes": "स्वच्छ मांडणी (एका ओळीची वरची पट्टी, «⋯ अधिक»); 📋 सादरीकरणपूर्व तपासणी व 📦 अंतिम संच; २०२६-२७ पासून आयकर अधिनियम २०२५ (कलम १४९); आणखी बँकांच्या statement मांडण्या; फर्म «📆 या आठवड्यात»; सहकार सहायक; तयार AI उत्तरे.",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "90f567f49c81ed93fc6901dfaf181498cde420b7c650ec9b0336aea464f2c1c8"
+  "sha256": "19f928d9c551053d7fdc1f7f6fcb6bdd51b5af026f2bdec3c9a6fcf47079df91"
  },
  "griha": {
   "version": "7.6",
