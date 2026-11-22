@@ -1,5 +1,9 @@
 # सहकार लक्ष्मी — सहकारी गृहनिर्माण संस्थांसाठी (Boffin Meta LLP)
 
+## ⬇ उतरवा
+- **[GrihaMitra_Download.exe](https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Download.exe)** — लहान फाइल: पूर्ण setup उतरवते, sha256 ने तपासते व सुरू करते; उतरवताना सहकार लक्ष्मीत काय करता येते ते दाखवते (Boffin Meta).
+- किंवा थेट setup: [GrihaMitra_Setup.exe](https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe)
+
 > नवीन (७.६): 📋 या आठवड्याची कामे — समितीसाठी (मुदत उलटलेली व ७ दिवसांतील कामे, थकबाकीदार; छापा / WhatsApp / ई-मेल); वार्षिक सभा ६ पायऱ्या; निवडणूक स्थगिती आदेश गृहनिर्माण संस्थांना लागू नाही हे स्पष्ट; सर्व पाने सोप्या मराठीत; मोबाईलवर वरची पट्टी एका ओळीत; आणखी बँकांच्या statement मांडण्या.
 
 > (७.५.१): परवाना सेवा 2.0 सुरू — फक्त नाव व पासवर्ड; «पुन्हा सुरू» नंतर पासवर्ड दिल्यावर लगेच सुरू.
