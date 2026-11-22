@@ -1,11 +1,11 @@
 {
  "sahkar": {
-  "version": "9.5",
-  "date": "2026-11-21",
-  "notes": "स्वच्छ मांडणी (एका ओळीची वरची पट्टी, «⋯ अधिक»); 📋 सादरीकरणपूर्व तपासणी व 📦 अंतिम संच; २०२६-२७ पासून आयकर अधिनियम २०२५ (कलम १४९); आणखी बँकांच्या statement मांडण्या; फर्म «📆 या आठवड्यात»; सहकार सहायक; तयार AI उत्तरे.",
+  "version": "9.6",
+  "date": "2026-11-22",
+  "notes": "🪔 सहकार जगदीश — पतसंस्थेचे वसुली कार्यालय (एन.पी.ए. परिपत्रकाप्रमाणे, थकबाकीदार, प्रतिनिधी यादी, ⚖ वसुली विभाग — वसुली शिडी व सर्व पत्रे; एकच पॅक ₹ ४५,०००); software नुसार एन.पी.ए.; 📝 प्रस्ताव संच — कलम १५६ वसुली अधिकारी, शाखा विस्तार, कार्यक्षेत्र वाढ; कर्ज मंजुरीपूर्वी कागदपत्र तपासणी यादी.",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "19f928d9c551053d7fdc1f7f6fcb6bdd51b5af026f2bdec3c9a6fcf47079df91"
+  "sha256": "a78ffe28afa606d2b6ea311d1deb1d12e6f3f66bf5d360c15c14c8351cdf884c"
  },
  "griha": {
   "version": "7.7",
@@ -29,5 +29,11 @@
  },
  "cloud": {
   "url": "https://script.google.com/macros/s/AKfycbwPXvCSZpcloVgYNGv3tuvYs_tb4paDSmcu7UzdwSS_y2VGwvuNBbBUFw80LC2UOjJZ/exec"
+ },
+ "jagdish": {
+  "version": "1.0",
+  "date": "2026-11-22",
+  "notes": "सहकार जगदीश — स्वतंत्र setup: वसुली कार्यालय, ⚖ वसुली विभाग, छोटे व्हिडिओ",
+  "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/jagdish-download/SahkarJagdish_Download.exe"
  }
 }
