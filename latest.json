@@ -1,11 +1,11 @@
 {
  "sahkar": {
-  "version": "9.7",
+  "version": "9.7.1",
   "date": "2026-11-28",
-  "notes": "सहकार मित्र आता संस्थांसाठी: 🏦 कोणत्याही महिनाअखेरचे BRS, 🏢 शाखानिहाय → एकत्रित नमुना «एन», 📅 वैधानिक मुदती व आठवण, 📦 लेखापरीक्षकासाठी पेटी, 🎬 छोटे व्हिडिओ. लेखापरीक्षण अहवाल आता नवीन «सहकार श्री» मध्ये (वेगळा setup, तीच माहिती).",
+  "notes": "सहकार मित्र 9.7.1 — सर्व पत्रकांचे तक्ते एकाच रुंदीचे; शाखानिहाय पत्रके पुन्हा दिल्यास दुप्पट होत नाहीत; एकाच Excel मधील प्रत्येक शाखा पेटीत वेगळी; मालक कक्षात चारही उत्पादने व «🎁 डेमो व सदस्यता» व्हिडिओ; मित्र व श्री एकाच संगणकावर स्वतंत्र login. लेखापरीक्षण अहवाल «सहकार श्री» मध्ये.",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "92a9777be8310538b77babca71fa8b2259cc148065ca92b8f022decf98cb3c4d"
+  "sha256": "77ec23d01a7ac56d67c5b3fd0cc0330b6122210e07cc45b27932ea3c09a7c510"
  },
  "griha": {
   "version": "7.8",
@@ -31,15 +31,15 @@
   "url": "https://script.google.com/macros/s/AKfycbwPXvCSZpcloVgYNGv3tuvYs_tb4paDSmcu7UzdwSS_y2VGwvuNBbBUFw80LC2UOjJZ/exec"
  },
  "jagdish": {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "date": "2026-11-28",
-  "notes": "सहकार जगदीश 1.0.4 — फक्त वसुली कार्यालय (इतर पाने योग्य उत्पादनाकडे), पैसे भरणे बँक खात्यात, उठावदार बटणे.",
+  "notes": "सहकार जगदीश 1.0.5 — पहिल्या पानावर सहकार जगदीश चे नाव; एकाच संगणकावर स्वतंत्र login; Word तक्ते एकाच रुंदीचे.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/jagdish-download/SahkarJagdish_Download.exe"
  },
  "shri": {
-  "version": "1.0",
+  "version": "1.0.1",
   "date": "2026-11-28",
-  "notes": "सहकार श्री 1.0 — लेखापरीक्षकाचे साधन: आदर्श मसुद्याप्रमाणे वैधानिक अहवाल, संस्थेची पेटी एका क्लिकवर, पायरीनिहाय व्हिडिओ.",
+  "notes": "सहकार श्री 1.0.1 — तक्ते एकाच रुंदीचे; पेटी पुन्हा आयात केल्यास शाखा दुप्पट होत नाहीत; BRS नेहमी वर्षअखेरचे; पहिल्या पानावर सहकार श्री चे नाव.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/shri-download/SahkarShri_Download.exe"
  }
 }
