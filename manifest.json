@@ -1,39 +1,39 @@
 {
  "product": "sahkar",
- "version": "1.0",
+ "version": "1.0.1",
  "file": "SahkarShri_Setup.exe",
- "size": 549289506,
- "sha256": "75ddfe6b3f2252cec6751ee42cfd0d90d3411292337284bd09cc78c31f5549a1",
+ "size": 551504447,
+ "sha256": "43ce87f80a12e1bd2ff7d5f7104307a20b246cfef7eb423aaafc9f0ef2fc23db",
  "parts": [
   {
    "name": "SahkarShri_Setup.exe.001",
    "size": 95000000,
-   "sha256": "e475eba2931dfdbce61f66dea40ecf65afdfa9234990c5d9f44472879027f3f3"
+   "sha256": "5ed74071dc4b42ccad5cf35cbd2bed5061d6325dd28ed6ba34faace54320b174"
   },
   {
    "name": "SahkarShri_Setup.exe.002",
    "size": 95000000,
-   "sha256": "94ad103af8dccd55d1c19bf40b867d8477469a9304579568b3ea641464f4cdab"
+   "sha256": "e7e3d56defcf9aaea1a44ab6b93e7a06b19e7fa24eebb1a78255fc328d66ed40"
   },
   {
    "name": "SahkarShri_Setup.exe.003",
    "size": 95000000,
-   "sha256": "7bb8f292c3748c0bb57e2c5073c406626bd2b10e81b8bc163a1031c365b7f719"
+   "sha256": "1b7fd452fbde2df5f25d80a3198795b78eb0a5dea54a31ac156d0f7ffdefeb09"
   },
   {
    "name": "SahkarShri_Setup.exe.004",
    "size": 95000000,
-   "sha256": "10315b4a4fa2a3c2defceb5809b8f738529b7c79d632fa97582f2bdeeee3ed55"
+   "sha256": "a940b100f4a79b6b3f4689fd26f9e3fa896636b24900393a21376b6311db08c3"
   },
   {
    "name": "SahkarShri_Setup.exe.005",
    "size": 95000000,
-   "sha256": "df583a0042d5aee650a2eddcc6f362959f8047cab5ac74d54afd3a4627ca6f74"
+   "sha256": "8b4fdae802f9ed05f345a63cf7537c40b82394669480205ae794ae9845a8c02d"
   },
   {
    "name": "SahkarShri_Setup.exe.006",
-   "size": 74289506,
-   "sha256": "3fbae2fa261a647ecdb52a4cc4ade1fa269cca9585e9b8221ad40bc93ce269be"
+   "size": 76504447,
+   "sha256": "418ceb7f0c0c8e47ab1be594512eb0817bb7a5124ea9e018546bcc7b0102d857"
   }
  ]
 }
