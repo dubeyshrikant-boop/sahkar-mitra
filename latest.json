@@ -1,18 +1,18 @@
 {
  "sahkar": {
-  "version": "9.6",
-  "date": "2026-11-22",
-  "notes": "🪔 सहकार जगदीश — पतसंस्थेचे वसुली कार्यालय (एन.पी.ए. परिपत्रकाप्रमाणे, थकबाकीदार, प्रतिनिधी यादी, ⚖ वसुली विभाग — वसुली शिडी व सर्व पत्रे; एकच पॅक ₹ ४५,०००); software नुसार एन.पी.ए.; 📝 प्रस्ताव संच — कलम १५६ वसुली अधिकारी, शाखा विस्तार, कार्यक्षेत्र वाढ; कर्ज मंजुरीपूर्वी कागदपत्र तपासणी यादी.",
+  "version": "9.7",
+  "date": "2026-11-28",
+  "notes": "सहकार मित्र आता संस्थांसाठी: 🏦 कोणत्याही महिनाअखेरचे BRS, 🏢 शाखानिहाय → एकत्रित नमुना «एन», 📅 वैधानिक मुदती व आठवण, 📦 लेखापरीक्षकासाठी पेटी, 🎬 छोटे व्हिडिओ. लेखापरीक्षण अहवाल आता नवीन «सहकार श्री» मध्ये (वेगळा setup, तीच माहिती).",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/dubeyshrikant-boop/sahkar-mitra/sahkarmitra-download/manifest.json",
-  "sha256": "a78ffe28afa606d2b6ea311d1deb1d12e6f3f66bf5d360c15c14c8351cdf884c"
+  "sha256": "92a9777be8310538b77babca71fa8b2259cc148065ca92b8f022decf98cb3c4d"
  },
  "griha": {
-  "version": "7.7",
-  "date": "2026-11-22",
-  "notes": "⏰ आपोआप ई-मेल — समितीला दर आठवड्याची कामांची यादी व थकबाकीदारांना मासिक स्मरण (संस्थेचा Gmail ॲप पासवर्ड भरून आपण सुरू केल्यासच); ▶ नवीन मार्गदर्शन व्हिडिओ — आठवड्याची कामे व वार्षिक सभा पायऱ्या.",
+  "version": "7.8",
+  "date": "2026-11-28",
+  "notes": "पैसे भरणे — Boffin Meta LLP च्या चालू खात्यात NEFT / IMPS / RTGS; उठावदार बटणे; दुरुस्त्या (LAN जोडणी, टाइप करताना रकाना पुसला जात नाही).",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/grihamitra-download/GrihaMitra_Setup.exe",
-  "sha256": "c6ac807f502211558c88a1a330c032e98eb9c8ac6b0dddc43e1551bcf694aa39"
+  "sha256": "7f242d7934f0dc546fbdd8ed707d21b171677e248e54fad79872c7e217320f8e"
  },
  "owners": {
   "v": 1,
@@ -31,9 +31,15 @@
   "url": "https://script.google.com/macros/s/AKfycbwPXvCSZpcloVgYNGv3tuvYs_tb4paDSmcu7UzdwSS_y2VGwvuNBbBUFw80LC2UOjJZ/exec"
  },
  "jagdish": {
-  "version": "1.0.3",
-  "date": "2026-11-22",
-  "notes": "सहकार जगदीश 1.0.3 — 🎓 आत भरलेली नमुना संस्था, प्रवेश पानावर सहकार जगदीशचे नाव, सेटअप उतरवताना नवीन माहिती-खिडकी",
+  "version": "1.0.4",
+  "date": "2026-11-28",
+  "notes": "सहकार जगदीश 1.0.4 — फक्त वसुली कार्यालय (इतर पाने योग्य उत्पादनाकडे), पैसे भरणे बँक खात्यात, उठावदार बटणे.",
   "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/jagdish-download/SahkarJagdish_Download.exe"
+ },
+ "shri": {
+  "version": "1.0",
+  "date": "2026-11-28",
+  "notes": "सहकार श्री 1.0 — लेखापरीक्षकाचे साधन: आदर्श मसुद्याप्रमाणे वैधानिक अहवाल, संस्थेची पेटी एका क्लिकवर, पायरीनिहाय व्हिडिओ.",
+  "url": "https://github.com/dubeyshrikant-boop/sahkar-mitra/raw/shri-download/SahkarShri_Download.exe"
  }
 }
