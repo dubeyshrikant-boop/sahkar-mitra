@@ -1,14 +1,14 @@
 {
  "product": "sahkar",
- "version": "7.7",
+ "version": "7.8",
  "file": "GrihaMitra_Setup.exe",
- "size": 57568006,
- "sha256": "c6ac807f502211558c88a1a330c032e98eb9c8ac6b0dddc43e1551bcf694aa39",
+ "size": 58054273,
+ "sha256": "7f242d7934f0dc546fbdd8ed707d21b171677e248e54fad79872c7e217320f8e",
  "parts": [
   {
    "name": "GrihaMitra_Setup.exe",
-   "size": 57568006,
-   "sha256": "c6ac807f502211558c88a1a330c032e98eb9c8ac6b0dddc43e1551bcf694aa39"
+   "size": 58054273,
+   "sha256": "7f242d7934f0dc546fbdd8ed707d21b171677e248e54fad79872c7e217320f8e"
   }
  ]
 }
