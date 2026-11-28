@@ -1,19 +1,19 @@
 {
  "product": "sahkar",
- "version": "1.0.4",
+ "version": "1.0.5",
  "file": "SahkarJagdish_Setup.exe",
- "size": 125286577,
- "sha256": "87fad86bc9b5f71c1361a1e36d642a20e17eb141c5f9eec1e58361d2a86b4382",
+ "size": 125298525,
+ "sha256": "fd666cc8ba16e8207684cfd28c1d8e5f67327b6376571b48b148411370508c4e",
  "parts": [
   {
    "name": "SahkarJagdish_Setup.exe.001",
    "size": 95000000,
-   "sha256": "58406a57c4f6a453bc0c3ced4960653bca4ce3b89f307ccd7a12db9d7885e545"
+   "sha256": "b0b39154148f40ee6351063ec05f19716171b3ed61c065180ad7c881f8b54e54"
   },
   {
    "name": "SahkarJagdish_Setup.exe.002",
-   "size": 30286577,
-   "sha256": "b31679e234921befc14c310592b4023cf10cffdd2c35b63d543ceaa24b3aa0c0"
+   "size": 30298525,
+   "sha256": "57e4e064df61842645d6ee5ba270c18431735847e5db85c99a3be68adb5e92ca"
   }
  ]
 }
